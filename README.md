@@ -7,4 +7,4 @@
 | content 1 | content 2 |
 ~~good~~
 `light`
-!(https://www.goodreads.com/series/173792-the-beginning-after-the-end)!
+[![novel](ttps://i.pinimg.com/736x/7d/43/70/7d4370677bb0e56e8b8f2bba47c2fa7e.jpg)](https://www.goodreads.com/series/173792-the-beginning-after-the-end)
